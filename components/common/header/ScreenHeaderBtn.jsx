@@ -6,7 +6,7 @@ import styles from './screenheader.style'
 const ScreenHeaderBtn = () => {
   return (
     <View>
-      <Text>ScreenHeaderBtn</Text>
+      <Text style={{color: 'red'}}>ScreenHeaderBtn</Text>
     </View>
   )
 }
